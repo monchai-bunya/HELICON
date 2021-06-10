@@ -1,0 +1,2 @@
+normalized_load,mem_utilization,vcpu_number,latency,packet_loss,jitter,bandwidth,net_utilization,IP,device_type
+1.14625,75.3588232405,4,72.846,0.0,33.528,4.13349262501,0.413349262501,192.168.40.21,21

@@ -1,0 +1,2 @@
+normalized_load,mem_utilization,latency,packet_loss,jitter,bandwidth,net_utilization,vnf_load,IP,device_type
+0.0025,10.8393265082,1.917,0.0,2.1094,0.0,0.0,1.14125,192.168.40.63,11

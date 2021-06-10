@@ -1,0 +1,2 @@
+device_type,normalized_load,memtotal,mem_utilization,core_number,vcpu_number,cpu_speed,cache_size,latency,packet_loss,jitter,bandwidth,net_utilization
+31,0.07375,15909.2539062,8.51104003198,8,0,2800.0,6144.0,0.045,0.0,0.0073,0.00337186735079,0.00624419879776
